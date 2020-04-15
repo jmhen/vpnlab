@@ -9,7 +9,7 @@
 #include <sys/ioctl.h>
 
 #define PORT_NUMBER 55555
-#define SERVER_IP "10.0.2.69"
+#define SERVER_IP "10.0.5.19"
 #define BUFF_SIZE 2000
 struct sockaddr_in peerAddr;
 
